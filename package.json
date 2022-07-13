@@ -1,0 +1,26 @@
+{
+  "name": "cypress-buger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de automação de testes de aceitação do APP BugerEats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anarosapedrosa/cypress-buger-eats.git"
+  },
+  "author": "Ana Pedrosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anarosapedrosa/cypress-buger-eats/issues"
+  },
+  "homepage": "https://github.com/anarosapedrosa/cypress-buger-eats#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.3.0",
+    "cypress": "^10.3.0",
+    "cypress-file-upload": "^5.0.8",
+    "faker": "^5.5.3",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}
