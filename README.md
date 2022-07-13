@@ -1,5 +1,5 @@
 # cypress-buger-eats
-Projeto de testes de aceitação do app BugerEats usando cypress para automação.
+Projeto prático do curso Cypress Discovery da QAAcademy de testes de aceitação do app BugerEats usando cypress para automação.
 
 🚀 Tecnologias <br/>
 [Node.js] - plataforma de desenvolvimento <br/>
