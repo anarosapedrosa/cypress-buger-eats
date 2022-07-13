@@ -1,6 +1,7 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
+  projectId: 'zgeq7h',
   video:false,
   e2e: {
     setupNodeEvents(on, config) {
@@ -10,6 +11,5 @@ module.exports = defineConfig({
     viewportWidth:1440,
     viewportHeight:900,
     baseUrl: 'https://buger-eats-qa.vercel.app'
-  },
-  projectId: "zgeq7h"
+  }
 });
